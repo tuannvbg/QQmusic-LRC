@@ -6,7 +6,8 @@
         "album": "意外",
         "singer": "薛之谦",
         "duration": 253,
-        "isLike": true
+        "isLike": true,
+        "lyrics": "https://dl.dropboxusercontent.com/s/r3evpg942fojbof/Dinh.Dung-Sai.Lam.Cua.Anh.lrc?dl=0"
     },
     {
         "image": "/QQmusic-LRC/source/song_2.jpg",
